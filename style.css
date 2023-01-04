@@ -1,0 +1,26 @@
+body {
+  background: black;
+}
+
+#container {
+  background-color: royalblue;
+  border: 5px solid white;
+  height: 300px;
+  width: 750px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#btn {
+  margin: 50px auto;
+  height: 50px;
+  width: 250px;
+  font-size: 22px;
+  background-color: rgb(192, 191, 191);
+}
+
+#output {
+  margin: 25px auto;
+  font-size: 26px;
+  color: white;
+}
